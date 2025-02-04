@@ -7,7 +7,7 @@
 - **VerifTop** : CRM sécurisé avec gestion des utilisateurs, 2FA, exportation PDF/CSV et système de notifications.
 - **Système de recommandations e-commerce** : Projet Big Data utilisant **Kafka, Spark, Hadoop et MongoDB** pour des recommandations personnalisées.
 
-📌 **Compétences principales :**
+# 📌 **Compétences principales :**
 - **Frontend** : React, Next.js, Material-UI, Tailwind CSS, Vue.js.
 - **Backend** : FastAPI, Flask, Node.js (Express), Spring Boot, Django.
 - **Bases de données** : MongoDB, PostgreSQL, SQLite, MySQL.
