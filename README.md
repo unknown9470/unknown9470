@@ -1,6 +1,6 @@
 # 👋 Bonjour, je m'appelle JEANDENANS Alexis
 💻 **Développeur Full Stack** avec une expertise en **React, Next.js, FastAPI, Flask, Node.js et Spring Boot**. Passionné par l'**IA**, le **développement web** et les **SaaS**.
-## 🎯 À propos de moi
+# # 🎯 À propos de moi
 # 🚀 **Projets phares :**
 - **PyraIA** : Une IA qui suggère une méthodologie de développement adaptée aux besoins d’un projet.
 - **LocalEat** : Application de mise en relation entre producteurs locaux et consommateurs.
